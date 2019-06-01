@@ -1,0 +1,11 @@
+{
+  "title": "Bug1",
+  "body": "I'm the first bug",
+  "assignees": [
+    "karupinka"
+  ],
+  "milestone": null,
+  "labels": [
+    "bug"
+  ]
+}
